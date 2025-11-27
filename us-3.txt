@@ -1,0 +1,2 @@
+COMO un cliente, QUIERO que los productos seleccionados para la compra queden almacenados en un carrito de compras 
+PARA poder visualizar todos mis productos y el precio total
