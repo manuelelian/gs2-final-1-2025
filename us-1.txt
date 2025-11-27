@@ -1,0 +1,3 @@
+Existen dos tipos de requisitos:
+Requisitos funcionales: Lo que el sistema hace por ejemplo; Logearse, registrarse, sumar al carrito
+Requisitos no funcionales: Como es el sistema por ejemplo; se logea rapidamente, funcionan a la perfeccion sus metodos de seguridad
