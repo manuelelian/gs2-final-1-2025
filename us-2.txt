@@ -1,0 +1,7 @@
+SCRUM es una metodologia agil utilizada en equipos de trabajo para organizarse y gestionar proyectos 
+complejos mediante ciclos de trabajo cortos y adaptativos. Permitiendo realizar modificaciones en el avance
+del proyecto segun las necesidades del cliente, o gustos siendo mas maleable que un desarrollo mediante el
+metodo tradicional de cascada.
+Los actores dentro de SCRUM son: Product Owner, Scrum Master y el equipo
+Los artefactos son: Product Backlog, Sprint Backlog y Increment
+Las ceremonias son: Sprint, Sprint Planning, Daily Scrum, Sprint Review y Sprint Retrospective
